@@ -9,5 +9,5 @@
 |Nama|NRP  |
 |--|--|
 |M. Januar Eko Wicaksono|5027221006|
-|Gilang Raya Kurniawan|5027221008|
-|Imam Nurhadi|5027221015|
+|Gilang Raya Kurniawan|5027221045|
+|Imam Nurhadi|5027221046|
